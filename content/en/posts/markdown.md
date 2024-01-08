@@ -1,5 +1,5 @@
 ---
-title: Markdown Syntax Guide
+title: content/en/markdown
 date: 2020-01-01
 tags:
   - Markdown

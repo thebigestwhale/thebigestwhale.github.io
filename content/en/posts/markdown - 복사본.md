@@ -1,5 +1,5 @@
 ---
-title: Markdown Syntax Guide
+title: dddd
 date: 2020-01-01
 tags:
   - Markdown
@@ -9,7 +9,7 @@ authors:
   - name: iolite
     link: https://example.com/johndoe
 excludeSearch: true
-
+url: /content/en/posts
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
