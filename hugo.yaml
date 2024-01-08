@@ -111,7 +111,7 @@ markup:
     noClasses: false    
 
 defaultContentLanguage: kr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 languages:
   kr:
     weight: 1
