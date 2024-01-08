@@ -22,25 +22,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-menu:
-  # main:
-  #   - name: Posts
-  #     url: /posts/
-  #     weight: 4
-  #   - name: Archive
-  #     url: /archives/
-  #     weight: 5
-  #   - name: Search
-  #     url: /search/
-  #     weight: 10
-  #   - name: Tags
-  #     url: /tags/
-  #     weight: 10
-  #   - name: About 
-  #     url: /about/
-  #     weight: 15
-
-
 params:
   assets:
     disableHLJS: true
@@ -56,9 +37,9 @@ params:
 
   profileMode:
     enabled: true
-    title: Orestis Ousoultzoglou
-    subtitle: Tuning the hum of intrinsic noise
-    imageURL: https://avatars.githubusercontent.com/u/54778816
+    title: whale
+    subtitle: test server
+    imageURL: https://cdn.pixabay.com/photo/2019/06/20/09/26/underwater-4286600_1280.jpg
     imageWidth: 250
     imageHeight: 250
 
