@@ -119,8 +119,6 @@ languages:
     languageName: 한국어
     languageCode: kr
     title: 페이퍼 기본 틀
-    params:
-      linkedin: https://obrey.github.io/paperbasic/
     menu:
       main:
         - name: 게시글
@@ -144,8 +142,6 @@ languages:
     languageName: English
     languageCode: en
     title: Paper Basic
-    params:
-      linkedin: https://obrey.github.io/paperbasic/en/
     menu:
       main:
         - name: Posts
