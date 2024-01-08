@@ -117,7 +117,7 @@ languages:
     weight: 1
     languageName: 한국어
     languageCode: kr
-    contentDir: /content/kr/
+    contentDir: content/kr/
     title: 페이퍼 기본 틀
     menu:
       main:
