@@ -5,10 +5,9 @@ tags:
   - Markdown
   - Example
   - Guide
-authors:
-  - name: iolite
-    link: https://example.com/johndoe
+authors: iolite
 excludeSearch: true
+comments: true
 
 ---
 

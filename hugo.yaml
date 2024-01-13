@@ -30,7 +30,7 @@ params:
   title: Stochastic Resonance
   description: A blog about things in no particular order, shape or form
   keywords: [blog]
-  author: Orestis Ousoultzoglou
+  author: tester
   DateFormat: January 2, 2006
   defaultTheme: auto
   disableThemeToggle: false
