@@ -147,6 +147,47 @@ func main() {
 | Header    | Title       |
 | Paragraph | Text        |
 
+
+### callout
+> [!NOTE] Title
+> Contents
+
+> [!INFO] Title
+> Contents
+
+---
+>NOTE
+>
+>It works with almost all markdown flavours (the below blank line matters).
+
+
+
+----------------------- ------------------------------------
+![Tip](images/tip.png)\ Table multiline text bla bla bla bla
+                        bla bla bla bla bla bla bla ... the
+                        blank line below is important 
+
+----------------------------------------------------------------
+
+| | |
+|-|-|
+|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
+
+## How to write warning in pandoc
+
+::: warn
+deprecated, do not use.
+:::
+
+::: tips
+usefull tips for writing markdown
+:::
+
+| | | |
+|-|-|-|
+|`1위` | 가나다라마바사, 가격은 1원 | 바로가기|
+
+
 ## References
 
 - [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
