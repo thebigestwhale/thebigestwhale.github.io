@@ -1,6 +1,6 @@
 baseURL: https://thebigestwhale.github.io/
 languageCode: kr
-title: 사이트 제목입니다
+title: 당신에게 필요한
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -50,7 +50,7 @@ params:
   profileMode:
     enabled: true
     title: whale
-    subtitle: test server
+    subtitle: 당신에게 필요한
     imageURL: https://cdn.pixabay.com/photo/2019/06/20/09/26/underwater-4286600_1280.jpg
     imageWidth: 250
     imageHeight: 250
@@ -111,27 +111,22 @@ languages:
     languageName: 한국어
     languageCode: kr
     contentDir: content/kr/
-    title: 페이퍼 기본 틀
+    title: 당신에게 필요한
     menu:
       main:
-        - name: 게시글
-          url: /posts/
-          weight: 3
         - name: 파트너스
           url: /partners/
-          weight: 4 
+          weight: 5
         - name: 아카이브
           url: /archives/
-          weight: 5
+          weight: 10
         - name: 검색
           url: /search/
-          weight: 10
+          weight: 15
         - name: 태그
           url: /tags/
-          weight: 10
-        - name: 소개
-          url: /about/
-          weight: 15
+          weight: 20
+
   en:
     weight: 2
     languageName: English
@@ -142,16 +137,13 @@ languages:
       main:
         - name: Posts
           url: /posts/
-          weight: 4
+          weight: 5
         - name: Archive
           url: /archives/
-          weight: 5
+          weight: 10
         - name: Search
           url: /search/
-          weight: 10
+          weight: 15
         - name: Tags
           url: /tags/
-          weight: 10
-        - name: About
-          url: en/about/
-          weight: 15
+          weight: 20
