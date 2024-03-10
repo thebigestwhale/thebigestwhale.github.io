@@ -44,19 +44,6 @@ comments: true
 
 
 
-| #    | 상품명     | 할인가 | 링크         |
-| :---: | :-------: | :----: | :----------: |
-| `1` | Levis 리바이스 청바지 505-4886 (Regular Fit) 긴바지 구매 하기 | 96,500원 |[![바로가기](https://i.imgur.com/aQkUqfT.png)](https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM)|
-| `2` | abc초콜릿  | 2원   |        [**구매 하기**]((https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM))   |
-| `3` | 촉촉한초코칩  | 3원   |            |
-
-
-| #    | 상품명     | 할인가 | 링크         |
-| ---- | ------- | ---- | ---------- |
-| `1` | Levis 리바이스 청바지 505-4886 (Regular Fit) 긴바지 구매 하기 | 96,500원 | [![바로가기](https://i.imgur.com/aQkUqfT.png)](https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM)|
-| `2` | abc초콜릿  | 2원   |        [바로가기]((https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM))      |
-| `3` | 촉촉한초코칩  | 3원   |            |
-
 
 물론이죠! 아래에 "초록색 우산"을 예로 들어 제품 선택 가이드와 함께 제품 설명을 작성한 블로그 글 예시를 들어보겠습니다:
 
@@ -95,13 +82,7 @@ comments: true
 
 ## 제품 소개
 
-| # | 상품명 | 가격 | 링크 |
-| :---: | :---: | :---: | :---: |
-| 1 | 초록색 우산 A | 10,000원 | [**구매 하기**](https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM) |
-| 2 | 초록색 우산 B | 20,000원 | [*구매 하기*](https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM) |
-| 3 | 초록색 우산 C | 15,000원 | [바로 가기](https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM) |
-| 4 | 초록색 우산 D | 12,000원 | [바로 가기](https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM) |
-| 5 | 초록색 우산 E | 25,000원 | [바로 가기](https://link.coupang.com/re/AFFSDP?lptag=AF5033054&pageKey=3746804&itemId=18509372&vendorItemId=3027199624&traceid=V0-153-1b4c16fc5bf4babb&requestid=20240308130734986152120812&token=31850C%7CGM) |
+
 
 이 5가지 우산 중에서 여러분의 필요와 취향에 가장 잘 맞는 우산을 선택해보세요. 이 우산들은 모두 훌륭한 품질을 자랑하며, 비오는 날 여러분을 안전하게 보호해줄 것입니다.
 
