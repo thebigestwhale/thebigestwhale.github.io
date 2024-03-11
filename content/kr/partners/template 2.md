@@ -70,9 +70,10 @@ comments: true
 
 {{< rawhtml >}}
 <div class="toc" style="text-align: center; height: 50px; line-height: 2;">
-  <p>할인가 보러가기<br></p>
+  <p>지금 바로 할인가 보러가기<br></p>
 </div>
 {{< /rawhtml >}}
+
 >#### `3위` 초록색 우산
 평점 4.5⭐ 1,500개의 상품평
  - 우산 유형: 튼튼한 자동우산, 양산 우산 겸용
@@ -81,10 +82,25 @@ comments: true
 
 {{< rawhtml >}}
 <div class="toc" style="text-align: center; height: 50px; line-height: 2;">
-  <p>할인가 보러가기<br></p>
+  <p>할인된 가격을 확인해보세요<br></p>
 </div>
 {{< /rawhtml >}}
 
+>#### `4위` 초록색 우산
+평점 4.5⭐ 1,500개의 상품평
+ - 우산 유형: 튼튼한 자동우산, 양산 우산 겸용
+ - 기능: 자외선 차단
+ - 디자인: 품격있는 디자인
+
+{{< rawhtml >}}
+<div class="toc" style="text-align: center; height: 50px; line-height: 2;">
+  <p>제품 상세 및 후기 보러가기<br></p>
+</div>
+{{< /rawhtml >}}
+
+
+
+제품들은 할인율 변동에 따라 변화할 수 있습니다.
 
 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
