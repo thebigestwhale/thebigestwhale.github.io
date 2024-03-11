@@ -25,7 +25,7 @@ outputs:
     - html
   term:
     - html
-
+  
 services:
   rss:
     limit: 42
@@ -102,6 +102,9 @@ markup:
     guessSyntax: true
     lineNos: true
     noClasses: false    
+  tableOfContents:
+    startLevel: 1
+    endLevel: 6
 
 defaultContentLanguage: kr
 defaultContentLanguageInSubdir: false
