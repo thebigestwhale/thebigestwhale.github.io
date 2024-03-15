@@ -120,7 +120,7 @@ comments: true
 
 {{< rawhtml >}}
 <div class="toc" style="text-align: center; height: 50px; line-height: 2;">
-  <p>할인된 가격을 확인해보세요<br></p>
+  <p>할인된 가격을 확인해보세<br></p>
 </div>
 {{< /rawhtml >}}
 
@@ -153,7 +153,7 @@ comments: true
 
 {{< rawhtml >}}
 <div class="toc" style="text-align: center; height: 50px; line-height: 2;">
-  <p>제품 상세 및 후기 보러가기<br></p>
+  <p>제품 상세 및 사용자 후기 확인하기</p>
 </div>
 {{< /rawhtml >}}
 
