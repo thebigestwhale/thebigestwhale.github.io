@@ -117,8 +117,8 @@ languages:
     title: 당신에게 필요한
     menu:
       main:
-        - name: 파트너스
-          url: /partners/
+        - name: 게시글
+          url: /posts/
           weight: 5
         - name: 아카이브
           url: /archives/
