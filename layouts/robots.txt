@@ -3,3 +3,5 @@ User-agent:*
 Allow: /
 
 Sitemap: https://thebigestwhale.github.io/sitemap.xml
+
+#DaumWebMasterTool:b19a64f96b6c83e73db58c2bf324ff3e0dc8425daa21a5d66bdd04ce57209dac:aLFhQYV9YgYEUYgAs03uHg==
