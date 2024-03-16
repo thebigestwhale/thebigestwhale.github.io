@@ -120,9 +120,6 @@ languages:
         - name: 게시글
           url: /posts/
           weight: 5
-        - name: 파트너스
-          url: /partners/
-          weight: 5
         - name: 아카이브
           url: /archives/
           weight: 10
@@ -141,8 +138,8 @@ languages:
     title: Paper Basic
     menu:
       main:
-        - name: Posts
-          url: /posts/
+        - name: Affiliate
+          url: /affiliate/
           weight: 5
         - name: Archive
           url: /archives/
