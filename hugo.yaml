@@ -120,9 +120,9 @@ languages:
         - name: 게시글
           url: /posts/
           weight: 5
-        - name: Affiliate
-          url: /affiliate/
-          weight: 6
+        # - name: Affiliate
+        #   url: /affiliate/
+        #   weight: 6
         - name: 아카이브
           url: /archives/
           weight: 10
