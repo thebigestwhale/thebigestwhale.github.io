@@ -1,5 +1,5 @@
 baseURL: https://thebigestwhale.github.io/
-languageCode: kr
+languageCode: ko
 title: 당신에게 필요한
 
 enableRobotsTXT: true
@@ -109,11 +109,11 @@ markup:
 defaultContentLanguage: ko
 defaultContentLanguageInSubdir: false
 languages:
-  kr:
+  ko:
     weight: 1
     languageName: 한국어
     languageCode: ko
-    contentDir: content/kr/
+    contentDir: content/ko/
     title: 당신에게 필요한
     menu:
       main:
