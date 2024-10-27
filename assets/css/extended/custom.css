@@ -1,4 +1,4 @@
-@@font-face {
+@font-face {
     font-family: 'Pretendard-Regular';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
     font-weight: 400;
@@ -33,15 +33,22 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'NEXON Lv2 Gothic';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv2 Gothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 :root {
-    --default-font: 'NoonnuBasicGothicRegular', sans-serif;
+    --default-font: 'NEXON Lv2 Gothic', sans-serif;
     --body-font: 'Pretendard-Regular', sans-serif;
     --code-font: 'NEXON Lv2 Gothic', sans-serif;
     --handwriting-font: 'omyu_pretty', sans-serif;
   }
  
 
+  
 main {
     font-family: var(--body-font);
 }
