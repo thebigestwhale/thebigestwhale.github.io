@@ -106,13 +106,13 @@ markup:
     startLevel: 1
     endLevel: 6
 
-defaultContentLanguage: kr
+defaultContentLanguage: ko
 defaultContentLanguageInSubdir: false
 languages:
   kr:
     weight: 1
     languageName: 한국어
-    languageCode: kr
+    languageCode: ko
     contentDir: content/kr/
     title: 당신에게 필요한
     menu:
