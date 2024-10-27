@@ -12,15 +12,13 @@
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/omyu_pretty.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
-}
 
 @font-face {
-    font-family: 'NanumSquareNeo-Variable';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
+    font-family: 'GmarketSansMedium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'NEXON Lv2 Gothic';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv2 Gothic.woff') format('woff');
@@ -28,8 +26,22 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'NoonnuBasicGothicRegular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noon-2410@1.0/NoonnuBasicGothicRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'JeonjuCraftGoR';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/JeonjuCraftGoR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root {
-    --default-font: 'NanumSquareNeo-Variable', sans-serif;
+    --default-font: 'JeonjuCraftGoR', sans-serif;
     --body-font: 'Pretendard-Regular', sans-serif;
     --code-font: 'NEXON Lv2 Gothic', sans-serif;
     --japanese-font: 'M PLUS 1p', sans-serif;
